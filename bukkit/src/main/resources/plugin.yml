@@ -1,0 +1,5 @@
+main: org.vertexstudios.booter.bukkit.VertexBooter
+version: 1.0
+author: VertexStudios
+name: VertexBooter
+load: STARTUP
